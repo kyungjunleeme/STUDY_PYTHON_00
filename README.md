@@ -3,7 +3,6 @@
 <img width="740" alt="image" src="https://user-images.githubusercontent.com/45473846/235352780-e96b5794-7d13-435b-90f4-58b753000c06.png">
 
 ## 스터디원
-[현채원🌳](https://github.com//chaiwon1)
 [이경준🌿](https://github.com/kyungjunleeme)
 
 
